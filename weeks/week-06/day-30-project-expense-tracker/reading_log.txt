@@ -1,0 +1,6 @@
+2026-10-28,Sapiens,30
+2026-11-02,Atomic Habits,35
+2026-11-02,The Hobbit,20
+2026-11-05,Atomic Habits,42
+2026-11-09,The Hobbit,lots
+2026-11-12,The Hobbit,55

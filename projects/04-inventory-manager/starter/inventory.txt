@@ -1,0 +1,6 @@
+Notebook,2.5,40
+Pen,0.75,3
+Glue stick,1.25,5
+Highlighter,1.5,12
+Stapler,6.0,2
+Graph paper,3.25,18

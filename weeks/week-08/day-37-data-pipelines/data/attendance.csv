@@ -1,0 +1,26 @@
+date,student,status
+2026-12-01,Ken Sato,present
+2026-12-01,Fatima Noor,present
+2026-12-01,Lina Haddad,late
+2026-12-01,Arjun Mehta,absent
+2026-12-01,Chloe Martin,present
+2026-12-02,Ken Sato,Present
+2026-12-02,fatima noor,present
+2026-12-02,Lina Haddad,present
+2026-12-02,Arjun Mehta,absent
+2026-12-02,Chloe Martin,here
+2026-12-03,Ken Sato,present
+2026-12-03,Fatima Noor,LATE
+2026-12-03,Lina Haddad,present
+2026-12-03,Arjun Mehta,present
+2026-12-03,Chloe Martin,present
+2026-12-04,Ken Sato,absent
+2026-12-04,Fatima Noor,present
+2026-12-04,,present
+2026-12-04,Arjun Mehta,late
+2026-12-04,Chloe Martin,absent
+2026-12-05,Ken Sato,present
+2026-12-05, Fatima Noor ,present
+2026-12-05,Lina Haddad,absent
+2026-12-05,Arjun Mehta,
+2026-12-05,Chloe Martin,present

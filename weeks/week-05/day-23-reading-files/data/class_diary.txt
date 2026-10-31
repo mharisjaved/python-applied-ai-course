@@ -1,0 +1,11 @@
+Week 5 class diary
+
+Monday: We learned built-in functions. Asha sorted the whole leaderboard in one line.
+Bilal asked why sorted() and .sort() give different results.
+
+Tuesday: Comprehensions! Zoë cleaned a messy list of names with a single line of code.
+Omar said the bracket rules felt strange at first, then easy.
+
+Wednesday: We started reading files. Mei brought pastries from the café next to campus.
+Diego noticed that every line in a file ends with an invisible newline character.
+Fatima used Python to count the words in this diary.

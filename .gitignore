@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[oc]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environment
+.venv/
+
+# Secrets: never commit real keys. Copy .env.example to .env instead.
+.env
+
+# Tool state
+.claude-flow/
+.claude/
+
+# Instructor-only material: kept locally, never published
+solutions.ipynb
+solution_*.py
+projects/*/reference/
+assessments/answer-keys/
+*.zip

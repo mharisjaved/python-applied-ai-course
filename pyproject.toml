@@ -1,0 +1,30 @@
+[project]
+name = "python-ai-course"
+version = "0.1.0"
+description = "12-week beginner course: Python foundations (weeks 1-8) and applied AI (weeks 9-12)."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    # Notebooks in VS Code
+    "ipykernel>=6.29",
+    # Testing (introduced in Week 6)
+    "pytest>=8.3",
+    # Data and machine learning (introduced in Weeks 9-10)
+    "numpy>=2.1",
+    "pandas>=2.2",
+    "matplotlib>=3.9",
+    "scikit-learn>=1.5",
+    # Optional real LLM calls (Week 11+); every lesson also works offline with a mock
+    "anthropic>=0.40",
+    "python-dotenv>=1.0",
+]
+
+[dependency-groups]
+# Instructor tooling: executes and checks every notebook (scripts/validate_notebooks.py)
+dev = [
+    "nbclient>=0.10",
+    "nbformat>=5.10",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,10 @@
+2026-10-28,food,Groceries for the week,54.20
+2026-10-30,transport,Train ticket,6.80
+2026-11-01,rent,November rent,450.00
+2026-11-01,utilities,Electricity bill,38.75
+2026-11-03,food,Lunch with Sara,12.50
+2026-11-04,entertainment,Cinema with Omar,9.00
+2026-11-05,transport,Bus pass,25.00
+this line is broken
+2026-11-07,food,Coffee beans,8.40
+2026-11-08,health,Pharmacy,14.30

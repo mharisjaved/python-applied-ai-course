@@ -1,0 +1,149 @@
+date,category,description,amount,payment_method
+2026-09-01,rent,monthly rent,650.0,transfer
+2026-09-01,utilities,electricity and water,64.2,transfer
+2026-09-01,transport,taxi,6.21,card
+2026-09-01,food,bakery,37.31,cash
+2026-09-02,food,coffee,33.25,card
+2026-09-03,food,lunch,27.81,cash
+2026-09-03,entertainment,cinema,20.67,card
+2026-09-03,transport,taxi,5.77,cash
+2026-09-05,food,lunch,13.85,card
+2026-09-05,transport,fuel,18.78,cash
+2026-09-06,food,bakery,33.57,card
+2026-09-06,shopping,headphones,43.73,card
+2026-09-06,health,pharmacy,21.45,card
+2026-09-07,food,snacks,37.46,card
+2026-09-07,transport,bike repair,9.41,cash
+2026-09-08,food,dinner out,28.05,card
+2026-09-08,food,dinner out,8.55,card
+2026-09-08,food,snacks,31.74,card
+2026-09-09,food,dinner out,40.87,cash
+2026-09-09,food,snacks,24.14,card
+2026-09-11,transport,bike repair,17.1,card
+2026-09-11,health,dentist,53.69,cash
+2026-09-12,food,groceries,32.3,card
+2026-09-12,food,dinner out,36.16,card
+2026-09-13,transport,bike repair,4.74,card
+2026-09-14,food,lunch,41.22,card
+2026-09-15,transport,bike repair,13.44,card
+2026-09-17,transport,bus pass top-up,18.18,card
+2026-09-17,transport,fuel,20.33,cash
+2026-09-17,entertainment,board game,26.84,card
+2026-09-18,transport,train ticket,9.32,cash
+2026-09-18,food,coffee,28.7,cash
+2026-09-19,entertainment,board game,36.71,cash
+2026-09-19,food,coffee,26.48,card
+2026-09-20,shopping,shoes,34.93,cash
+2026-09-21,transport,bus pass top-up,22.94,card
+2026-09-21,entertainment,streaming subscription,13.21,cash
+2026-09-22,entertainment,cinema,16.36,cash
+2026-09-22,food,groceries,37.58,card
+2026-09-23,food,groceries,14.05,card
+2026-09-23,food,groceries,33.43,card
+2026-09-24,transport,train ticket,21.92,cash
+2026-09-24,food,lunch,29.89,card
+2026-09-26,health,dentist,26.45,card
+2026-09-27,transport,taxi,19.23,cash
+2026-09-27,food,lunch,30.51,card
+2026-09-29,entertainment,concert ticket,42.82,card
+2026-09-30,food,groceries,33.95,card
+2026-09-30,shopping,shoes,29.9,cash
+2026-10-01,rent,monthly rent,650.0,transfer
+2026-10-01,utilities,electricity and water,91.6,transfer
+2026-10-01,food,coffee,12.5,card
+2026-10-02,shopping,shoes,6.39,card
+2026-10-02,food,groceries,26.46,cash
+2026-10-03,food,groceries,36.72,card
+2026-10-04,entertainment,concert ticket,44.1,card
+2026-10-04,transport,taxi,23.21,card
+2026-10-05,food,snacks,39.2,card
+2026-10-05,food,groceries,19.07,card
+2026-10-05,transport,taxi,24.4,card
+2026-10-06,transport,bus pass top-up,21.62,card
+2026-10-07,food,dinner out,31.3,card
+2026-10-09,shopping,phone case,32.37,card
+2026-10-09,health,gym membership,18.71,cash
+2026-10-10,shopping,headphones,47.92,card
+2026-10-10,food,lunch,39.66,card
+2026-10-10,food,lunch,38.13,card
+2026-10-11,entertainment,cinema,55.85,cash
+2026-10-12,food,groceries,35.1,cash
+2026-10-12,shopping,phone case,37.18,card
+2026-10-12,food,snacks,39.49,card
+2026-10-13,shopping,shoes,29.54,card
+2026-10-14,food,snacks,36.57,card
+2026-10-14,shopping,t-shirt,48.21,card
+2026-10-15,entertainment,board game,58.78,cash
+2026-10-15,transport,train ticket,21.3,card
+2026-10-15,transport,fuel,18.27,card
+2026-10-16,transport,train ticket,7.24,card
+2026-10-17,food,snacks,17.41,card
+2026-10-18,food,dinner out,32.43,card
+2026-10-18,food,dinner out,14.74,card
+2026-10-19,food,snacks,31.81,card
+2026-10-19,transport,taxi,17.55,card
+2026-10-20,food,bakery,9.28,card
+2026-10-21,food,lunch,44.81,cash
+2026-10-22,transport,train ticket,23.99,card
+2026-10-22,food,snacks,5.0,card
+2026-10-23,food,lunch,37.18,card
+2026-10-23,entertainment,cinema,31.39,card
+2026-10-23,food,coffee,26.53,card
+2026-10-24,food,groceries,17.75,cash
+2026-10-25,food,snacks,30.29,cash
+2026-10-25,food,coffee,17.91,cash
+2026-10-26,food,bakery,21.77,card
+2026-10-26,food,coffee,22.48,card
+2026-10-27,transport,train ticket,13.81,cash
+2026-10-28,food,groceries,6.32,card
+2026-10-28,food,coffee,30.43,cash
+2026-10-29,transport,fuel,9.59,card
+2026-10-30,transport,bike repair,29.03,card
+2026-10-31,food,groceries,8.25,card
+2026-11-01,rent,monthly rent,650.0,transfer
+2026-11-01,utilities,electricity and water,81.48,transfer
+2026-11-01,transport,bus pass top-up,7.9,card
+2026-11-01,food,groceries,42.35,card
+2026-11-01,transport,bus pass top-up,23.59,cash
+2026-11-04,transport,bus pass top-up,20.34,card
+2026-11-05,food,bakery,14.94,cash
+2026-11-06,food,lunch,4.2,cash
+2026-11-07,health,gym membership,69.82,card
+2026-11-08,shopping,shoes,43.37,cash
+2026-11-08,transport,bike repair,18.73,cash
+2026-11-09,transport,bike repair,14.18,cash
+2026-11-09,transport,train ticket,27.45,card
+2026-11-09,transport,bus pass top-up,14.37,card
+2026-11-10,food,coffee,3.44,cash
+2026-11-10,entertainment,streaming subscription,25.88,card
+2026-11-11,food,dinner out,42.77,card
+2026-11-11,food,dinner out,36.51,cash
+2026-11-12,entertainment,concert ticket,17.81,cash
+2026-11-13,food,lunch,33.03,cash
+2026-11-13,food,dinner out,12.26,card
+2026-11-14,transport,bike repair,23.41,cash
+2026-11-14,entertainment,concert ticket,22.8,cash
+2026-11-15,entertainment,board game,17.78,card
+2026-11-15,food,coffee,7.63,card
+2026-11-16,food,bakery,29.16,card
+2026-11-16,food,lunch,5.08,cash
+2026-11-18,shopping,notebooks,28.61,cash
+2026-11-19,transport,taxi,4.53,card
+2026-11-19,food,coffee,20.65,card
+2026-11-20,food,groceries,16.87,card
+2026-11-22,entertainment,cinema,36.25,card
+2026-11-23,health,gym membership,66.29,card
+2026-11-25,food,dinner out,13.38,card
+2026-11-25,food,bakery,35.38,cash
+2026-11-25,transport,taxi,15.24,cash
+2026-11-26,shopping,headphones,58.85,card
+2026-11-27,shopping,shoes,16.26,card
+2026-11-27,transport,taxi,12.09,card
+2026-11-27,health,pharmacy,78.0,card
+2026-11-28,food,groceries,10.03,card
+2026-11-28,transport,fuel,24.1,card
+2026-11-28,shopping,shoes,71.81,card
+2026-11-29,transport,train ticket,23.58,card
+2026-11-29,food,groceries,31.81,card
+2026-11-29,shopping,t-shirt,11.02,cash
+2026-11-30,transport,bus pass top-up,5.52,card
