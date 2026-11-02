@@ -20,3 +20,4 @@ solution_*.py
 projects/*/reference/
 assessments/answer-keys/
 *.zip
+assessments/
